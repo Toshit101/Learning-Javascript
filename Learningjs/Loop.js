@@ -11,9 +11,16 @@
 //     console.log('');
 //     i++;
 // }
-let i= 1;
-do {
-console.log('This is do while loop');
-i++
-}while(i<=5);// ';' is must after while("")
-
+// let i= 1;
+// do {
+// console.log('This is do while loop');
+// i++
+// }while(i<=5);// ';' is must after while("")
+//for of Loop
+let str= "JAVASCRIPT";
+let size=0;
+for(let i of str)
+{
+    console.log("i", i);
+size++    
+}
