@@ -1,3 +1,3 @@
-//Strings in Js
-let str = 'Hello Aryaa Lets learn javascript';
-console.log(str);
+Strings in Js
+let str = 'This is a String';
+console.log(typeof str);
