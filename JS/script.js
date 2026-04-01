@@ -31,7 +31,14 @@
 // let u1 = Symbol("u1");
 // let u2 = Symbol("u1");
 // In JS  we do dynamic typing --> because here we can change data type
-let a =12;
-a ="True";
+// let a =12;
+// a ="True";
+let a = prompt("Enter any number");
+if(a%2==0){
+    console.log("Even");
+}
+else{
+    console.log("Odd");
+}
 
  
