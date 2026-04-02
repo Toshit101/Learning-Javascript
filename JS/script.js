@@ -33,12 +33,19 @@
 // In JS  we do dynamic typing --> because here we can change data type
 // let a =12;
 // a ="True";
-let a = prompt("Enter any number");
-if(a%2==0){
-    console.log("Even");
-}
-else{
-    console.log("Odd");
-}
+// let a = prompt("Enter any number");
+// if(a%2==0){
+//     console.log("Even");
+// }
+// else{
+//     console.log("Odd");
+// }
 
- 
+// let user = prompt("Enter your user id");
+
+// if (user == "admin")
+//     console.log("You are now logged in as admin");
+// else if (user == "student")
+//     console.log("You can login with some permissions.");
+// else 
+//     console.log("You are not allowed to login");
